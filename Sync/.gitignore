@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But descend into directories
+!*/
+
+# Allow specific file types
+!*.py
+!*.ipynb
+!*.md
+!*.docx
+!.gitignore

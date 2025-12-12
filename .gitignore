@@ -1,0 +1,19 @@
+# Extensions ignorées (Data & Media)
+*.tdms
+*.tdms_index
+*.mtb
+*.txt
+*.csv
+*.mp4
+*.mov
+*.avi
+*.docx
+*.log
+*.zip
+
+# Python & System
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
